@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # desafiovue
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# desafioVueRouter
+>>>>>>> 510b0bee3c556e66bfd9673481b622dcf1771f19
